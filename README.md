@@ -1,2 +1,2 @@
-# Project-Echo-Template
+# Project-Echo
 - This Project Focusing on implementing front-end basics and UI more than dp programming &amp; functionality.
